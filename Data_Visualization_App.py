@@ -1,3 +1,4 @@
+import streamlit as st 
 st.set_option('deprecation.showfileUploaderEncoding', False)
 
 st.title("Data Visualization App")
