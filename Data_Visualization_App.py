@@ -1,8 +1,3 @@
-import streamlit as st
-pip install plotly-express
-import plotly_express as px
-import pandas as pd
-
 st.set_option('deprecation.showfileUploaderEncoding', False)
 
 st.title("Data Visualization App")
